@@ -8,7 +8,7 @@ long long binpow(long long a, long long b) {
         a = a * a;
         b >>= 1;
     }
-    cout<<res<<endl;
+    cout<<res<<"\n";
     return res;
 }
 int main()

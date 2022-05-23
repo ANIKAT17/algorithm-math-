@@ -10,8 +10,7 @@ long long binpow(long long a, long long b) {
     }
     cout<<res<<"\n";
     return res;
-}
-int main()
+}int main()
 {
  binpow(3,4);
  
